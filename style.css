@@ -118,7 +118,28 @@ body {
 
 /**/
 
+/* SEGUNDA SECAO */
+.segunda-secao {
+    background-image: linear-gradient(var(--cor-04) 75%, var(--cor-03));
+}
 
+.segunda-secao__conteudo {
+    width: calc(100% - 50px);
+    margin: 0 25px 50px 25px;
+    padding: 50px;
+    border-radius: 25px;
+    line-height: 25px;
+    background-color: var(--cor-01);
+    box-shadow: 0 0 10px 0 var(--cor-04);
+}
+
+.segunda-secao__conteudo h2 {
+    font-family: var(--fonte-02);
+    font-size: 42px;
+    text-transform: uppercase;
+    margin-bottom: 25px;
+    text-align: center;
+}
 
 /**/
 
