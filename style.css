@@ -202,7 +202,7 @@ body {
     padding-top: 3rem;
     padding-bottom: 3rem;
 }
- .sustent4 {
+ /*.sustent4 {
    position: absolute;
     display: flex;
   justify-content: center;
@@ -210,7 +210,7 @@ body {
 
   border: 3px solid #73AD21;
   padding: 20px;
-}
+}*/
 
 .sustent3__titulo {
     color: var(--cinza-escuro);
@@ -229,12 +229,12 @@ body {
     margin-bottom: 1rem;
 }
 
-.sustent4__texto {
+/*.sustent4__texto {
     text-align: right;
 width: 50%;
     margin-bottom: 1rem;
 
-}
+}*/
 
 .sustent3__imagem {
     display: none;
@@ -242,12 +242,12 @@ width: 50%;
     height: 300px;
 
 }
-.sustent4__imagem {
+/*.sustent4__imagem {
     display: block;
   margin-left: auto;
   margin-right: auto;
   width: 40%;
-}
+}*/
 
 @media screen and (min-width: 1024px) {
     .sustent3 {
