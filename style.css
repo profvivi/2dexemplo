@@ -119,19 +119,17 @@ body {
 /**/
 
 /* SEGUNDA SECAO */
-.segunda-secao {
-    background-image: linear-gradient(var(--cor-04) 75%, var(--cor-03));
-}
+
 
 .segunda-secao__conteudo {
    
     padding: 50px;
     border-radius: 25px;
     line-height: 25px;
-    background-color: var(--cor-01);
-    box-shadow: 0 0 10px 0 var(--cor-04);
+    background-color: var(--branco);
+    box-shadow: 0 0 10px 0 var(--cinza-escuro);
     box-sizing: border-box;
-      width: calc(100% - 50px);
+    width: calc(100% - 50px);
       
     margin: 0 25px 50px 25px;
     
