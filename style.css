@@ -129,8 +129,8 @@ body {
     padding: 50px;
     border-radius: 25px;
     line-height: 25px;
-    background-color: var(--cor-01);
-    box-shadow: 0 0 10px 0 var(--cor-04);
+    background-color: var(--branco);
+    box-shadow: 0 0 10px 0 var(--cinza-claro);
 }
 
 .segunda-secao__conteudo h2 {
